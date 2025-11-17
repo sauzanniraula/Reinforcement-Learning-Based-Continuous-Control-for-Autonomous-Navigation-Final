@@ -177,4 +177,8 @@ train_freq: How often to train (e.g., train every 100 steps).
 
 train_batch_count: How many times to train when train_freq is hit.
 
+<<<<<<< HEAD
 save_freq: How often to save a checkpoint model (e.g., every 200 episodes).
+=======
+save_freq: How often to save a checkpoint model (e.g., every 200 episodes).
+>>>>>>> 0d4c89a4d5fc1a34c158af84204efa7d45984f2b
