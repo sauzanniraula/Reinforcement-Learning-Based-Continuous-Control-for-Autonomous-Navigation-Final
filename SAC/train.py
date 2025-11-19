@@ -48,7 +48,7 @@ def run():
         env.create_traffic()
         print("Traffic spawned.")
 
-        episodes = 5000 # Example: 5000 episodes
+        episodes = 5000 # No. of episodes you want to use 
 
         for ep in range(episodes):
             print(f"--- Running Training Episode {ep+1}/{episodes} ---")
