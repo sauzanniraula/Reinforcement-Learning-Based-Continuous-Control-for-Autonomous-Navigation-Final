@@ -40,6 +40,7 @@ self_driving_agent/
 **Prerequisites:**
 
   * This project is built for **CARLA 0.9.16**.
+  * You System must have an **GPU** to run CARLA.
   * You must have an **NVIDIA GPU** for the SAC algorithm to train effectively.
 
 **Installation Steps:**
